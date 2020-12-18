@@ -1,3 +1,3 @@
 # Android Studies
 
-Exercises in Android that was done during  a training in Motoboy.com.
+Exercises using Java (Android) were done during a training in Motoboy.com.
